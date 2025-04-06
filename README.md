@@ -1,5 +1,5 @@
 # Citation
-This is the code for the paper accepted by CVPR 2025- ``Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning``. More detailed code execution instructions will be published in the near future.
+This is the code for the JSCPT accepted by CVPR 2025- ``Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning``. More detailed code execution instructions will be published in the near future.
 
 # Please cite our paper if you use the code:
 ```bibtex
